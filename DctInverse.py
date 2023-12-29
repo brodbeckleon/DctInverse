@@ -5,10 +5,10 @@ Last Modified: 29.12.2023
 
 import math
 
-# Frequency und Picture Arrays
+# 8x8 Frequency Matrix
 Frequency = [
     [1024, 512, 0, 0, 0, 0, 0, 0],
-    [0, 0, 0, 0, 0, 0, 0, 0],
+    [512, 0, 0, 0, 0, 0, 0, 0],
     [0, 0, 0, 0, 0, 0, 0, 0],
     [0, 0, 0, 0, 0, 0, 0, 0],
     [0, 0, 0, 0, 0, 0, 0, 0],
